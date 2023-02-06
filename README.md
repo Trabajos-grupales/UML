@@ -130,6 +130,7 @@ cualquiera de dichos tipos a lo largo del tiempo, incluso de forma simultánea.
 
 LIBRO: Conjunto de hojas de papel manuscritas o impresas que, cosidas o encuadernadas, forman
 un volumen.
+
 MUESTRA: Parte o porción extraída de un conjunto, por métodos que permiten considerarla
 representativa del mismo.
 
