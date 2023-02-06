@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="sEjIl8-azeJVqwzvMz_l" name="Page-1">
+        <mxGraphModel dx="746" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Cuadro" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="160" width="270" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Título: 1..* Texto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+                    <mxGeometry y="26" width="270" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Representación: 1 texto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+                    <mxGeometry y="52" width="270" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Autor: 1 Texto&#10;&#10;Lugar: 1 Texto&#10;&#10;Copias: 0..* Número&#10;&#10;Técnica: 1 enum técnica&#10;&#10;Material del soporte: 1 enum material del soporte&#10;&#10;Donde se pintó: 1..* Texto&#10;&#10;Conservación: 1 enum conservación" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="2">
+                    <mxGeometry y="78" width="270" height="202" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Técnica:&lt;br/&gt;Acuarela&lt;br/&gt;Óleo&lt;br/&gt;Pastel&lt;br/&gt;Fresco" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="160" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="Material del soporte:&lt;br&gt;Madera&lt;br&gt;&amp;nbsp; &amp;nbsp; Álamo&lt;br&gt;&amp;nbsp; &amp;nbsp;Nogal&lt;br&gt;Lienzo&lt;br&gt;Obra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="160" width="130" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Conservación:&lt;br/&gt;Excelente&lt;br/&gt;Bueno&lt;br/&gt;Regular&lt;br/&gt;Malo&lt;br/&gt;Destruido" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="300" width="100" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
