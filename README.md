@@ -5,12 +5,12 @@ Link al repositorio: https://github.com/Trabajos-grupales/UML.git
 - Ejercicio 1: Para cada figura, define el objeto y los valores correspondientes.
 
 - Ejercicio 2: Define un diagrama de objetos a partir del siguiente texto:
-*Kate Windsor (nacida Middleton) y Guillermo (Windsor) de Gales están casados. Guillermo de
+Kate Windsor (nacida Middleton) y Guillermo (Windsor) de Gales están casados. Guillermo de
 Gales es hijo de Carlos (Windsor) de Gales y de Diana de Gales (nacida Spencer).
 
 - Ejercicio 3: Dibuja un diagrama de objetos a partir del siguiente texto, que describe una réplica conocida y estudiada de
 “La Gioconda”.
-*Autor: Anónimo (la original es de Leonardo Da Vinci).
+Autor: Anónimo (la original es de Leonardo Da Vinci).
 Adscripción cronológica: 1503 — 1516 (contemporánea a la original).
 Técnica: óleo (al igual que la original).
 Sub-técnica: pincelada simple (la original emplea “sfumato”).
@@ -23,8 +23,8 @@ Leonardo al mismo tiempo que el artista italiano pintaba su obra maestra. Por el
 sobre su autoría se ciñeron al círculo de discípulos que trabajaron con Leonardo. Su estado de
 conservación es mucho mejor que el de la obra original.
 
--Ejercicio 4:Considera la siguiente descripción.
-*La Catedral de Santiago de Compostela es un templo de culto católico situado en la ciudad
+- Ejercicio 4:Considera la siguiente descripción.
+La Catedral de Santiago de Compostela es un templo de culto católico situado en la ciudad
 homónima, en el centro de la provincia de La Coruña, en Galicia (España).
 La construcción de la actual catedral se inició en 1075. El templo fue construido
 fundamentalmente en granito. La última piedra fue colocada en 1122 y la catedral fue
@@ -41,7 +41,7 @@ Asegúrate de que las relaciones de instanciación entre los objetos y las clase
 - Ejercicio 6: Una persona tiene un nombre, dos apellidos, una fecha de nacimiento, un sexo y un número de identificación.
 Define las clases y los atributos correspondientes.
 
-Ejercicio 7: Describe las características de los proyectos en los que habitualmente participas, según tu experiencia y
+- Ejercicio 7: Describe las características de los proyectos en los que habitualmente participas, según tu experiencia y
 profesión, utilizando tantas clases como sea necesario. Para facilitar la comprensión de tu modelo, incluye la
 definición textual de las clases.
 
@@ -77,7 +77,7 @@ asociaciones, cardinalidades y roles para modelar las relaciones familiares pert
 necesitamos saber la capacidad de sus estanterías (es decir, el número de libros que pueden albergar) para así
 realizar las reordenaciones oportunas cuando se reciben nuevos ejemplares.
 
-*Los libros se organizan según la temática: libros infantiles, narrativa, ensayo, poesía, etc. Para ello, se deben
+Los libros se organizan según la temática: libros infantiles, narrativa, ensayo, poesía, etc. Para ello, se deben
 registrar los libros que se encuentran en la biblioteca, teniendo en cuenta que puede haber más de un ejemplar
 de cada libro. Cada libro contará al menos con un identificador único, una fecha de préstamo y otra de entrega.
 El préstamo máximo será de 30 días. Los lectores que no entreguen el libro a tiempo tendrán penalización.
@@ -138,7 +138,7 @@ contenidas en las definiciones del diccionario. Añade también la definición f
 información que no esté presente en las definiciones del diccionario.
 
 - Ejercicio 26: Analiza el texto siguiente y crea un modelo de clases que represente la información que se describe.
-*Las iglesias románicas suelen variar en función de su importancia. Las iglesias rurales o menores
+Las iglesias románicas suelen variar en función de su importancia. Las iglesias rurales o menores
 constan habitualmente de una sencilla nave y un ábside sin crucero saliente. Las pocas ventanas
 de las que constan suelen ser más altas que anchas, de arco doble y sin decorar exteriormente,
 cerradas con simples telas blancas enceradas o impregnada con trementina. Las iglesias de mayor
